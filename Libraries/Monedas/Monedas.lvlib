@@ -20,9 +20,9 @@
 				<Item Name="Show Diagram Argument--cluster.ctl" Type="VI" URL="../Show Diagram Argument--cluster.ctl"/>
 				<Item Name="Coin pressed Argument--cluster.ctl" Type="VI" URL="../Coin pressed Argument--cluster.ctl"/>
 				<Item Name="Set coin values Argument--cluster.ctl" Type="VI" URL="../Set coin values Argument--cluster.ctl"/>
-				<Item Name="Request credit Argument--cluster.ctl" Type="VI" URL="../Request credit Argument--cluster.ctl"/>
-				<Item Name="Request credit (Reply Payload)--cluster.ctl" Type="VI" URL="../Request credit (Reply Payload)--cluster.ctl"/>
-				<Item Name="Reset credit Argument--cluster.ctl" Type="VI" URL="../Reset credit Argument--cluster.ctl"/>
+				<Item Name="Reset credit to 0 Argument--cluster.ctl" Type="VI" URL="../Reset credit to 0 Argument--cluster.ctl"/>
+				<Item Name="Ask if credit Argument--cluster.ctl" Type="VI" URL="../Ask if credit Argument--cluster.ctl"/>
+				<Item Name="Ask if credit (Reply Payload)--cluster.ctl" Type="VI" URL="../Ask if credit (Reply Payload)--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -40,8 +40,8 @@
 			<Item Name="Set coin values.vi" Type="VI" URL="../Set coin values.vi"/>
 			<Item Name="Read Config.vi" Type="VI" URL="../Read Config.vi"/>
 			<Item Name="Save config.vi" Type="VI" URL="../Save config.vi"/>
-			<Item Name="Request credit.vi" Type="VI" URL="../Request credit.vi"/>
-			<Item Name="Reset credit.vi" Type="VI" URL="../Reset credit.vi"/>
+			<Item Name="Reset credit to 0.vi" Type="VI" URL="../Reset credit to 0.vi"/>
+			<Item Name="Ask if credit.vi" Type="VI" URL="../Ask if credit.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>

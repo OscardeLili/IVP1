@@ -18,6 +18,9 @@
 				<Item Name="Show Panel Argument--cluster.ctl" Type="VI" URL="../Show Panel Argument--cluster.ctl"/>
 				<Item Name="Hide Panel Argument--cluster.ctl" Type="VI" URL="../Hide Panel Argument--cluster.ctl"/>
 				<Item Name="Show Diagram Argument--cluster.ctl" Type="VI" URL="../Show Diagram Argument--cluster.ctl"/>
+				<Item Name="Set products Argument--cluster.ctl" Type="VI" URL="../Set products Argument--cluster.ctl"/>
+				<Item Name="Product Selection Argument--cluster.ctl" Type="VI" URL="../Product Selection Argument--cluster.ctl"/>
+				<Item Name="Update Product Aspect Argument--cluster.ctl" Type="VI" URL="../Update Product Aspect Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -31,6 +34,11 @@
 			<Item Name="Stop Module.vi" Type="VI" URL="../Stop Module.vi"/>
 			<Item Name="Get Module Execution Status.vi" Type="VI" URL="../Get Module Execution Status.vi"/>
 			<Item Name="Show Diagram.vi" Type="VI" URL="../Show Diagram.vi"/>
+			<Item Name="Set products.vi" Type="VI" URL="../Set products.vi"/>
+			<Item Name="Product Selection.vi" Type="VI" URL="../Product Selection.vi"/>
+			<Item Name="Read product config.vi" Type="VI" URL="../Read product config.vi"/>
+			<Item Name="Write product config.vi" Type="VI" URL="../Write product config.vi"/>
+			<Item Name="Update Product Aspect.vi" Type="VI" URL="../Update Product Aspect.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
