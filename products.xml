@@ -7,7 +7,7 @@
 <Dimsize>3</Dimsize>
 <String>
 <Name></Name>
-<Val>CocaCola</Val>
+<Val>Coca Cola</Val>
 </String>
 <String>
 <Name></Name>
@@ -23,7 +23,7 @@
 </String>
 <String>
 <Name></Name>
-<Val>16</Val>
+<Val>15</Val>
 </String>
 <String>
 <Name></Name>
@@ -35,7 +35,7 @@
 </String>
 <String>
 <Name></Name>
-<Val>16</Val>
+<Val>15</Val>
 </String>
 <String>
 <Name></Name>
@@ -51,7 +51,7 @@
 </String>
 <String>
 <Name></Name>
-<Val>20</Val>
+<Val>15</Val>
 </String>
 </Array>
 </LVData>

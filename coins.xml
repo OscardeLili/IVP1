@@ -9,7 +9,7 @@
 <NumElts>2</NumElts>
 <String>
 <Name>Boolean Text</Name>
-<Val>un peso</Val>
+<Val>$1</Val>
 </String>
 <I32>
 <Name>Value</Name>
@@ -21,7 +21,7 @@
 <NumElts>2</NumElts>
 <String>
 <Name>Boolean Text</Name>
-<Val>dos pesos</Val>
+<Val>$2</Val>
 </String>
 <I32>
 <Name>Value</Name>
@@ -33,7 +33,7 @@
 <NumElts>2</NumElts>
 <String>
 <Name>Boolean Text</Name>
-<Val>cinco pesos</Val>
+<Val>$5</Val>
 </String>
 <I32>
 <Name>Value</Name>
@@ -45,7 +45,7 @@
 <NumElts>2</NumElts>
 <String>
 <Name>Boolean Text</Name>
-<Val>diez pesos</Val>
+<Val>$10</Val>
 </String>
 <I32>
 <Name>Value</Name>
