@@ -1,0 +1,56 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>20.0</Version>
+<Array>
+<Name>Coins</Name>
+<Dimsize>4</Dimsize>
+<Cluster>
+<Name>Coins</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>Boolean Text</Name>
+<Val>un peso</Val>
+</String>
+<I32>
+<Name>Value</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Coins</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>Boolean Text</Name>
+<Val>dos pesos</Val>
+</String>
+<I32>
+<Name>Value</Name>
+<Val>2</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Coins</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>Boolean Text</Name>
+<Val>cinco pesos</Val>
+</String>
+<I32>
+<Name>Value</Name>
+<Val>5</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Coins</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>Boolean Text</Name>
+<Val>diez pesos</Val>
+</String>
+<I32>
+<Name>Value</Name>
+<Val>10</Val>
+</I32>
+</Cluster>
+</Array>
+</LVData>
