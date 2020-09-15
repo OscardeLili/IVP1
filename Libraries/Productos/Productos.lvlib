@@ -1,5 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Library LVVersion="20008000">
+	<Property Name="NI.Lib.Description" Type="Str">Library used to create all the request to do all the Productos Module tasks and get the Vending machine working</Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)P!!!*Q(C=\&gt;8.&lt;6J"&amp;-8R1Z2&amp;NK3#C":/#V11C2;O3W$LDQU&amp;?(-F6]![/VKY,&gt;!#,4D`'6]ZFI8.*IGCS0-9`$DT^70?YVG;Z9PU79_8SI^X3\@0@E_&gt;@ZW^&lt;"_P6W`HR\`2@G;3]_XHVX`(@[(IIXS5`\N=8`Q2`0(@Q5,D151N;F+$;IVF(YO]S)O]S)O]S*-]S:-]S:-]S9-]S)-]S)-]S%VO=J/&lt;X/1GHQ?ZS%5O=ED&amp;YM6#R;4&amp;"%6H+#L?#E`B+4S&amp;BY]K0)7H]"3?QE-8&amp;:\#5XA+4_&amp;BG!J0Y3E]B;@Q-.75V$T)]21?JF@C34S**`%E(J:5YEE!S7,*R-EE-*1U*C?**`%E(E[6?"*0YEE]C9&gt;G*:\%EXA34_*BS.S6H*JRE/.B'A7?Q".Y!E`A97I&amp;HM!4?!*0Y'%Z":\!%S##"90*)3A9&amp;(1)0A3?Q--@":\!%XA#4_#B;6[BG$MT./-ARW-]RG-]RG-]4#(D-2\D-2\D96I:D`%9D`%9$UP*?)T(?!T%,-LS-J/:A;;4#9S(V\R&lt;0+^34IHH)@8.K\YJV4?&lt;_C:3XRTKC[[_G/K,J.Z]^;;K.UO^#?IPJU;L-?J&amp;V).(2ZVY0V)0V$VV2^V3.^1V&gt;56&gt;DK'`O?0J&gt;.,R?.4B=."_P^&gt;ON^.WO^6GM^&amp;[P&gt;:KN&gt;*SO8R_$(TD?(YA0$W8LDG`?\B;X([`P\F\O,_Z`4LKV7,E@_(`]T`Q&lt;.1HP6S$0@I*CV;N!Q!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>

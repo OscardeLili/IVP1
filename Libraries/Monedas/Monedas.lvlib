@@ -1,5 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Library LVVersion="20008000">
+	<Property Name="NI.Lib.Description" Type="Str">Library used to create the requests from the Monedas Module. Its used to do al the tasks that are needed to do the operation successfully</Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)1!!!*Q(C=\&gt;4.4=.!%-8R"_,!.1UAF";GB&lt;31&amp;K;&amp;8$GGB&gt;&gt;#7EA,UU*;3!PGP[N21#C1#UA)M7;.]`&lt;LF\6D;::([5(,L@,U:8FLHV@DN$T.UY@WNY:FB.@;,ZW7&gt;`(6]6@GP\8_J`Y&lt;2@`FP`TN]H,T2`$DPY-\D2=2N;CG*D5UFFW+P-C,P-C,P-B.&lt;H+4G^TE*E`S*%`S*%`S*!`S)!`S)!`S)*](O=B&amp;,H*)R?,&amp;1M7ER12&amp;:SAK4I7H]"3?QM.(&amp;:\#5XA+4_'BCQJ0Y3E]B;@Q-%S&amp;J`!5HM*4?*BK3GI?Z(A+$^0,?)T(?)T(?&amp;B3RG-!:D%TM:E%BESDO4!?YT%?,G5]RG-]RG-].-NYD-&gt;YD-&gt;Y'$*XR6-T$H)]4+0%EXA34_**0%SNR*.Y%E`C34QMJ]34?"*%MG!S/11FAZ)/S9@%EXDYJ]34?"*0YEE].-U\F(.HBG9=Z(A#4_!*0)%H]$#&amp;!E`A#4S"*`!QL1*0Y!E]A3@QM*1#4_!*0!%E7*4F&amp;5Q7$!Q["5(AY7]_,4(PEK=EZC(VQ[N_+.50G`IB5D]=[JOOPJHKG[4?@07GKD&gt;,P1HK,[&gt;'KT(K2&gt;3$2U?&gt;/:_I2_K"OK@OK&amp;PKBLKGLM&lt;1&lt;_ZY0J^V/JVU0"ZV/"SUX__VW_WUX7[VW7SU8K_V7KUOLY&amp;HDMM,Y4?]FX[&amp;Y6\PVW#08A'7&lt;6&gt;1!!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>

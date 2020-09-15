@@ -1,5 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Library LVVersion="20008000">
+	<Property Name="NI.Lib.Description" Type="Str">Library used to display all the modules that are used in the DQMH Architecture to make the vending machine working properly</Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)3!!!*Q(C=\&gt;8,&lt;1*"%)4B]O.AS3=SM%CB5S!&amp;5OA5O()EB&lt;\Z4!KE5#G1!CHA@]9NSZ9F=`&amp;,FG&gt;JT.&lt;MTHT-,GNJNDPJ6O&gt;,\@\$^L&lt;`0&amp;\HH_O@OR`VPWM8P\\_WX`\WWV\]5@QZ&lt;_$+YU(%77KK+2#9^KTS5VO=J/&lt;X/2&amp;8O2&amp;8O2&amp;8O2*HO2*HO2*HO2"(O2"(O2"(O2T)R?ZS%5/S5RO*D+$GA(-Q6"EXIT(?)T(?.C6]2C0]2C0]8#)D-&gt;YD-&gt;YD)@4:$T'9TT'9TQ-.37?'TE?YW&amp;Y&amp;:\#5XA+4_&amp;B3B7?!F"-6AR=$!*$27@RI@!5HM,$2R7?QF.Y#E`BI6O&amp;J`!5HM*4?$BFLEJ.T&gt;D)]4#-%E`C34S**`%QN"*0YEE]C3@R-*U34_**%-G%S?!1F*S5(*$M**\%QR]FHM34?"*0YK&amp;L8K'=+T-U9S0(%XA#4_!*0)'()22Y!E`A#4S"BW%6?!*0Y!E]A9?J&amp;(A#4_!*)-'E4+^AM/$%Y+!A#$S]ZNU3]SL6F-4=J,ZZV4?F_G:4XU4KGU.^U&gt;585XW2V)OP8F4V9KE81@XFV'AV2DW*_O2RI%[]([E$N;&gt;WV):;5SNK33X'K:^]Y/FUUP&amp;YV/&amp;QU([`VW[XUW;TU8K^VGKVUH+ZV'+R?(E-0,#^0"#?HUN&lt;0G^P(^`7T=06S,`B``-P?$&lt;K7K`H9)W?!$&lt;I),A!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
